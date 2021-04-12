@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<span class="iconify" data-icon="octicon-octoface" data-inline="false"></span>
 ### 게임 프로그래밍과 딥러닝 공부
 
 **딥러닝 프로젝트**
