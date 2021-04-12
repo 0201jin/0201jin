@@ -34,9 +34,13 @@ Here are some ideas to get you started:
 </div>
 
 ## 🙋‍♂️ Flow ##
+<div>
+    <p>
 <a href="https://0201jin.github.io">
         <img src="http://img.shields.io/badge/Blog-00D182?style=flat"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-<a href="https://0201jin01@naver.com">
+<a href="mailto:0201jin01@naver.com">
         <img src="http://img.shields.io/badge/Mail-FF5E00?style=flat"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>      
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+    </p>
+</div>
