@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0201jin&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏃 Running ###
-**게임 프로그래밍**과 **딥러닝**을 공부하고 있습니다.<br>
+**게임 프로그래밍**과 **딥러닝**을 공부하고 있습니다.
     
 ## 🚀 Project
 **딥러닝 프로젝트**   
