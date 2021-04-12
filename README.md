@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0201jin&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-### 블로그 : <https://0201jin.github.io>
-
-## 🏃 목표 ##
+## 🏃 Goal ##
 게임 : 게임 개발 후 출시   
 딥러닝 : 스스로 학습을 통해서 사람과 자연스러운 대화
     
-## 🚀 프로젝트 ##
+## 🚀 Project ##
 **딥러닝 프로젝트**   
 >[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0201jin&repo=JNSDeepLearning&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
     
@@ -34,3 +32,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/WinAPI-005E75?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </p>
 </div>
+
+## 🙋‍♂️ Flow ##
+<a href="https://0201jin.github.io">
+        <img src="http://img.shields.io/badge/Blog-00D182?style=flat"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://0201jin01@naver.com">
+        <img src="http://img.shields.io/badge/Mail-FF5E00?style=flat"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>      
