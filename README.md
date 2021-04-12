@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 게임 프로그래밍과 딥러닝 공부중
+### 게임 프로그래밍과 딥러닝 공부
+
+**딥러닝 프로젝트**
+- [JNSDeepLearning](https://github.com/0201jin/JNSDeepLearning)
