@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 -->
 
 ### 게임 프로그래밍과 딥러닝 공부중
-
-**[블로그](https://0201jin.github.io/)**
