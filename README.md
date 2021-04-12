@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0201jin&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🏃 Running ###
-**게임 프로그래밍**과 **딥러닝**을 공부하고 있습니다.
+블로그 : <https://0201jin.github.io>
+
+## 🏃 목표 ##
+게임 : 게임 개발 후 출시   
+딥러닝 : 스스로 학습을 통해서 사람과 자연스러운 대화
     
-## 🚀 Project
+## 🚀 프로젝트 ##
 **딥러닝 프로젝트**   
 >[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0201jin&repo=JNSDeepLearning&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
     
-## 🛠 Stack
+## 🛠 Stack ##
 <div>
   <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
