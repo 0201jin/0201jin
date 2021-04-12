@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0201jin&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📖 게임 프로그래밍과 딥러닝 공부 ###
-
+### 📖 게임 프로그래밍과 딥러닝 공부 ###   
 ## 🚀 Project
 **딥러닝 프로젝트**   
 >[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0201jin&repo=JNSDeepLearning&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
