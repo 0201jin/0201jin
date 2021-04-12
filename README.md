@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **0201jin/0201jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 게임 프로그래밍과 딥러닝 공부중
