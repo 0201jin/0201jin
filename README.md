@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0201jin&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-블로그 : <https://0201jin.github.io>
+### 블로그 : <https://0201jin.github.io>
 
 ## 🏃 목표 ##
 게임 : 게임 개발 후 출시   
