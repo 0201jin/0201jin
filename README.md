@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **딥러닝 프로젝트**
   - [JNSDeepLearning](https://github.com/0201jin/JNSDeepLearning) (C++, CUDA)
 <br></br>
-## ⚡ Stack
+## 🛠 Stack
 <div>
   <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
