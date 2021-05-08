@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0201jin&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🏃 Goal ##
-게임 : 게임 개발 후 출시   
-딥러닝 : 스스로 학습을 통해서 사람과 자연스러운 대화
     
 ## 🚀 Project ##
 **딥러닝 프로젝트**   
