@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     
 ## 🚀 Project ##
 **딥러닝 프로젝트**   
->[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0201jin&repo=JNSDeepLearning&show_owner=true)](https://github.com/0201jin/JNSDeepLearning)
+>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0201jin&repo=JNSDeepLearning&show_owner=true)](https://github.com/JNSOrganization/JNSDeepLearning)
     
 ## 🛠 Stack ##
 <div>
